@@ -3,3 +3,4 @@ class HomeController < Application Controller
     end
     def about
     end
+end
